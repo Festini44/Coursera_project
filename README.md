@@ -1,3 +1,3 @@
 # Coursera_project
 
-this is a test 
+This is the project for my Coursera peer-graded task.
